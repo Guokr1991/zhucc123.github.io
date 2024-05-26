@@ -69,6 +69,38 @@ Figure 4. The ultrasound amplitude decreases in certain media as a function of u
 
 In ultrasound imaging, there are two aspects of spatial resolution: axial and lateral. Axial resolution is the minimum separation of above-below planes along the beam axis. It is determined by spatial pulse length, which is equal to the product of wavelength and the number of cycles within a pulse. It can be presented in the following formula:
 
-                                                           Axial resolution = Wavelength λ × Number of cycles per pulse n ÷ 2
+                          Axial resolution = Wavelength λ × Number of cycles per pulse n ÷ 2
 
 The number of cycles within a pulse is determined by the damping characteristics of the transducer. The number of cycles within a pulse is usually set between 2 and 4 by the manufacturer of the ultrasound machines. As an example, if a 2-MHz ultrasound transducer is theoretically used to do the scanning, the axial resolution would be between 0.8 and 1.6 mm, making it impossible to visualize a 21-gauge needle. For constant acoustic velocity, higher-frequency ultrasound can detect smaller objects and provide an image with better resolution. The axial resolution of current ultrasound systems is between 0.05 and 0.5 mm. (Figures 5) shows images at different resolutions when a 0.5-mm diameter object is visualized with three different frequency settings.
+
+![Figures 5](https://www.nysora.com/wp-content/uploads/2019/02/28x05-1.jpg)
+Figure 5. Ultrasound frequency affects the resolution of the imaged object. Resolution can be improved by increasing frequency and reducing the beam width by focusing. (Reproduced with permission from Hadzic A: Hadzic’s Peripheral Nerve Blocks and Anatomy for Ultrasound-Guided Regional Anesthesia, 2nd ed. New York: McGraw-Hill, Inc; 2011.)
+
+Lateral resolution is another parameter of sharpness to describe the minimum side-by-side distance between two objects. It is determined by both ultrasound frequency and beam width. The higher frequencies have a narrower focus and provide better axial and lateral resolution. Lateral resolution can also be improved by adjusting focus to reduce the beam width.
+
+Temporal resolution is also important for observing a moving object such as blood vessels and heart. Like a movie or cartoon video, the human eye requires that the image is updated at a rate of approximately 25 times a second or higher for an ultrasound image to appear continuous. However, imaging resolution will be compromised by increasing the frame rate. Optimizing the ratio of resolution to the frame rate is essential for providing the best possible image.
+
+# INTERACTIONS OF ULTRASOUND WITH TISSUES
+As the ultrasound wave travels through tissues, it is subject to a number of interactions. The most important features are as follows:
+
+- Reflection
+- Scatter
+- Absorption
+  
+When ultrasound encounters boundaries between different media, part of the ultrasound is reflected and the other part is transmitted. The reflected and transmitted directions are given by the reflection angle θr and transmission angle θt, respectively (Figure 6).
+
+![Figures 6](https://www.nysora.com/wp-content/uploads/2019/02/28x06-1.jpg)
+Figure 6. The interaction of ultrasound waves through the media in which they travel is complex. When ultrasound encounters boundaries between different media, part of the ultrasound is reflected and part is transmitted. The reflected and transmitted directions depend on the respective angles of reflection and transmission. (Adapted with permission from Hadzic A: Hadzic’s Peripheral Nerve Blocks and Anatomy for Ultrasound-Guided Regional Anesthesia, 2nd ed. New York: McGraw-Hill, Inc; 2011.)
+
+Refection of sound waves is similar to optical reflection. Some of its energy is sent back into the medium from which it came. In a true reflection, the reflection angle θr must equal the incidence angle θi. The strength of the reflection from an interface is variable and depends on the difference of impedances between two affinitive media and the incident angle at the boundary. If the media impedances are equal, there is no reflection (no echo). If there is a significant difference between media impedances, there will be nearly complete reflection. For example, an interface between soft tissues and either lung or bone involves a considerable change in acoustic impedance and creates strong echoes. This reflection intensity is also highly angle dependent. In practical terms, it means that the ultrasound transducer must be placed perpendicular to the target nerve to visualize it clearly. A change in sound direction when crossing the boundary between two media is called refraction. If the propagation speed through the second medium is slower than that through the first medium, the refraction angle is smaller than the incident angle. Refraction can cause the artifact that occurs beneath large vessels on the image.
+
+During ultrasound scanning, a coupling medium must be used between the transducer and the skin to displace air from the transducer-skin interface. A variety of gels and oils are applied for this purpose. Moreover, they can act as lubricants, making a smooth scanning performance possible. Most scanned interfaces are somewhat irregular and curved. If the boundary dimensions are significantly less than the wavelength or not smooth, the reflected waves will be diffused.
+
+Scattering is the redirection of sound in any directions by rough surfaces or by heterogeneous media (Figure 7).
+
+![Figures 7](https://www.nysora.com/wp-content/uploads/2019/02/28x07-1.jpg)
+Figure 7. Scattering is the redirection of ultrasound in any direction caused by rough surfaces or by heterogeneous media. (Adapted with permission from Hadzic A: Hadzic’s Peripheral Nerve Blocks and Anatomy for Ultrasound-Guided Regional Anesthesia, 2nd ed. New York: McGraw-Hill, Inc; 2011.)
+
+Normally, scattering intensity is much less than mirror-like reflection intensities and is relatively independent of the direction of the incident sound wave; therefore, the visualization of the target nerve is not significantly influenced by another nearby scattering.
+
+Absorption is defined as the direct conversion of the sound energy into heat. In other words, ultrasound scanning generates heat in the tissue. Higher frequencies are absorbed in a greater rate than lower frequencies. However, a higher scanning frequency gives a better axial resolution. If the ultrasound penetration is not sufficient to visualize the structures of interest, a lower frequency is selected to increase the penetration. The use of longer wavelengths (lower frequency) results in lower resolution because the resolution of ultrasound imaging is proportional to the wavelength of the imaging wave. Frequencies between 6 and 12 MHz typically yield adequate resolution for imaging in peripheral nerve block, whereas frequencies between 2 and 5 MHz are usually needed for imaging of neuraxial structures. Frequencies of less than 2 MHz or higher than 15 MHz are rarely used because of insufficient resolution or the insufficient penetration depth in most clinical applications.

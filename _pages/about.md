@@ -99,6 +99,7 @@ During ultrasound scanning, a coupling medium must be used between the transduce
 Scattering is the redirection of sound in any directions by rough surfaces or by heterogeneous media (Figure 7).
 
 ![Figures 7](https://www.nysora.com/wp-content/uploads/2019/02/28x07-1.jpg)
+
 Figure 7. Scattering is the redirection of ultrasound in any direction caused by rough surfaces or by heterogeneous media. (Adapted with permission from Hadzic A: Hadzic’s Peripheral Nerve Blocks and Anatomy for Ultrasound-Guided Regional Anesthesia, 2nd ed. New York: McGraw-Hill, Inc; 2011.)
 
 Normally, scattering intensity is much less than mirror-like reflection intensities and is relatively independent of the direction of the incident sound wave; therefore, the visualization of the target nerve is not significantly influenced by another nearby scattering.

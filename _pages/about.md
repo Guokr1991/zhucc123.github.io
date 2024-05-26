@@ -144,3 +144,74 @@ Figure 14. A: Carotid artery displays a red color when the blood flows toward th
 ![Figures 15](https://www.nysora.com/wp-content/uploads/2019/02/28x14a.jpg)
 Figure 15. Although the power Doppler may be useful in identifying smaller blood vessels, the drawback is that it does not provide information on the direction and speed of blood flow. (Adapted with permission from Hadzic A: Hadzic’s Peripheral Nerve Blocks and Anatomy for Ultrasound-Guided Regional Anesthesia, 2nd ed. New York: McGraw-Hill, Inc; 2011.)
 
+## M-Mode
+A single beam in an ultrasound scan can be used to produce a picture with a motion signal, where movement of a structure such as a heart valve can be depicted in a wave-like manner. M-mode is used extensively in cardiac and fetal cardiac imaging; however, its present use in regional anesthesia is negligible (Figure 16).
+
+![Figures 16](https://www.nysora.com/wp-content/uploads/2019/02/28x16-1.jpg)
+Figure 16. M-mode consists of a single beam used to produce an image with a motion signal. Movement of a structure can be depicted in a wavelike matter. (Reproduced with permission from Hadzic A: Hadzic’s Peripheral Nerve Blocks and Anatomy for Ultrasound-Guided Regional Anesthesia, 2nd ed. New York: McGraw-Hill, Inc; 2011.)
+
+## ULTRASOUND INSTRUMENTS
+Ultrasound machines convert the echoes received by the transducer into visible dots, which form the anatomic image on an ultrasound screen. The brightness of each dot corresponds to the echo strength, producing what is known as a grayscale image. Two types of scan transducers are used in regional anesthesia: linear and curved. A linear transducer can produce parallel scan lines and a rectangular display, called a linear scan, whereas a curved transducer yields a curvilinear scan and an arc-shaped image (Figures 17A and 17B). In clinical scanning, even a very thin layer of air between the transducer and skin may reflect virtually all the ultrasound, hindering any penetration into the tissue. Therefore, a coupling medium, usually an aqueous gel, is applied between surfaces of the transducer and skin to eliminate the air layer.
+
+The ultrasound machines currently used in regional anesthesia provide a 2D image, or “slice.” Machines capable of producing three-dimensional (3D) images have recently been developed. Theoretically, 3D imaging should help in understanding the relationship of anatomic structures and the spread of local anesthetics. There are three major types of 3D ultrasound imaging: (1) Freehand 3D is based on a set of 2D cross-sectional ultrasound images acquired from a sonographer sweeping the transducer over a region of interest (Figures 18A and 18B). (2) Volume 3D provides 3D volumetric images using a dedicated 3D transducer. The transducer elements automatically sweep through the region of interest during the scanning; the sonographer is not required to perform hand motions (Figure 18C). (3) Real-time 3D takes multiple images at different angles, allowing the sonographer to see the 3D model moving in real time. However, typical spatial resolution of 3D imaging is about 0.34–0.5 mm. At present, 3D imaging systems still lack the resolution and simplicity of 2D images, so their practical use in regional anesthesia is limited.
+
+![Figures 17](https://www.nysora.com/wp-content/uploads/2019/02/28x17ab-1.jpg)
+Figure 17. A: Rectangular scan field given by linear transducer. B: Arc-shaped scan field given by curved transducer. (Adapted with permission from Hadzic A: Hadzic’s Peripheral Nerve Blocks and Anatomy for Ultrasound-Guided Regional Anesthesia, 2nd ed. New York: McGraw-Hill, Inc; 2011.)
+
+![Figures 18](https://www.nysora.com/wp-content/uploads/2019/02/28x18-1.jpg)
+Figure 18.  A: Freehand 3D imaging. A linear transducer produces parallel scan lines and a rectangular display; linear scan. B: Freehand 3D imaging. A curved “phase array” transducer results in a curvilinear scan and an arch-shaped image. C: Fetal face viewed by volume 3D imaging. (Reproduced with permission from Hadzic A: Hadzic’s Peripheral Nerve Blocks and Anatomy for Ultrasound-Guided Regional Anesthesia, 2nd ed. New York: McGraw-Hill, Inc; 2011.)
+
+## TIME GAIN COMPENSATION
+The echoes exhibit a steady decline in amplitude with increasing depth. This occurs for two reasons: First, each successive reflection removes a certain amount of energy from the pulse, decreasing the generation of later echoes. Second, tissue absorbs ultrasound, so there is a steady loss of energy as the ultrasound pulse travels through the tissues. This can be corrected by manipulating time-gain compensation (TGC) and compression functions. Gain is the ratio of output to input electric power; it controls the brightness of the image. The gain is usually measured in decibels (dB). Increasing the gain amplifies not only the returning signals, but also the background noise within the system in the same manner. TGC is a time-dependent amplification. TGC function can be used to increase the amplitude of incoming signals from various tissue depths.
+
+The layout of the TGC controls varies from one machine to another. A popular design is a set of slider knobs. Each knob in the slider set controls the gain for a specific depth, which allows for a well-balanced gain scale on the image (Figures 19A, 19B, and 19C).
+
+![Figures 19](https://www.nysora.com/wp-content/uploads/2019/02/28x19abc-1.jpg)
+Figure 19: A, B, and C: The effect of the time-gain compensation settings. Time-gain compensation is a function that allows time- (depth) dependent amplification of signals returning from different depths. (Adapted with permission from Hadzic A: Hadzic’s Peripheral Nerve Blocks and Anatomy for Ultrasound-Guided Regional Anesthesia, 2nd ed. New York: McGraw-Hill, Inc; 2011.)
+
+Amplification is the conversion of the small voltages received from the transducer into larger ones that are suitable for further processing and storage. There are two amplification processes considered to increase the magnitude of ultrasound echoes: linear and nonlinear amplification. Currently, the ultrasonic imaging system with linear amplifiers is commonly used in medical diagnostic applications. However, the strength of echoes attenuates exponentially as the distance between the transducer and the reflector increases. Ultrasonic imaging instruments equipped with logarithmic amplifiers can display echo signals with a wider dynamic range than a linear amplifier and remarkably improve the sensitivity for a small magnitude of echoes on the screen.
+
+Dynamic range is the range of amplitudes from largest to the smallest echo signals that an ultrasound system can detect. The wider/higher dynamic range presents a larger number of grayscale levels, and it creates a softer image; the image with a narrower/lower dynamic range appears with more contrast (Figures 20A and 20B). Dynamic range less than 50 dB or greater than 100 dB is probably too low or too high in terms of visualization of peripheral nerve. Compression is the process of decreasing the differences between the smallest and largest echo-voltage amplitudes; the optimal compression is between 2 and 4 for a maximal scale equal to 6.
+
+![Figures 20](https://www.nysora.com/wp-content/uploads/2019/02/28x20ab.jpg)
+Figure 20.:  A: A softer image provided by a higher dynamic range. B: An image with more contrast provided by a lower dynamic range.
+
+## FOCUSING
+As previously discussed, it is common to use electronic means to narrow the width of the beam at some depth and achieve a focusing effect similar to that obtained using a convex lens (Figure 21). There are two types of focusing: annular and linear. These are illustrated in Figures 22A and 22B, respectively.
+
+Adjusting focus improves the spatial resolution on the plane of interest because the beam width is converged. However, the reduction in beam width at the selected depth is achieved at the expense of degradation in beam width at other depths, resulting in poorer images below the focal zone.
+
+![Figures 21](https://www.nysora.com/wp-content/uploads/2019/02/28x21-1.jpg)
+Figure 21: A demonstration of focusing effect. An electronic means can be used to narrow the width of the beam at a specific depth, resulting in the focusing effect and greater resolution at a chosen depth. (Adapted with permission from Hadzic A: Hadzic’s Peripheral Nerve Blocks and Anatomy for Ultrasound-Guided Regional Anesthesia, 2nd ed. New York: McGraw-Hill, Inc; 2011.)
+
+![Figures 22](https://www.nysora.com/wp-content/uploads/2019/02/28x22-1.jpg)
+Figure 22: A: Annular focusing is electronic focusing from all directions in the scan plane given by an annular transducer that contains several ring elements arranged concentrically. B: Linear focusing is electronic focusing applied along both lateral sides in the scan plane.
+
+## BIOEFFECT AND SAFETY
+The mechanisms of action by which an ultrasound application could produce a biologic effect can be conceptually categorized into two aspects: heating and mechanical. In reality, these two effects are rarely separable except for extracorporeal lithotripsy, the therapeutic application of mechanical bioeffects alone. The generation of heat increases as ultrasound intensity or frequency is increased. For similar exposure conditions, the expected temperature increase in bone is significantly greater than in soft tissues. In in vivo experiments, high-intensity ultrasound (usually > 2 W/cm2) is used to evaluate harmful biological effect; it is 5 to 20 times larger than therapeutic intensities (0.08–0.5 W/cm2) and 8 to 100 times larger than diagnostic intensities (color flow mode 0.25 W/cm2, B-mode scan 0.02 W/cm2). Reports in animal models (mice and rats) suggest that application of ultrasound may result in a number of undesired effects, such as fetal weight reduction, postpartum mortality, fetal abnormalities, tissue lesions, hind limb paralysis, blood flow stasis, and tumor regression. Other reported undesired effects in mice are abnormalities in B-cell development and ovulatory response and teratogenicity.
+
+In general, adult tissues are more tolerant of rising temperature than fetal and neonatal tissues. A modern ultrasound machine displays two standard indices: thermal and mechanical. The thermal index (TI) is defined as the transducer acoustic output power divided by the estimated power required to raise tissue temperature by 1°C. The mechanical index (MI) is equal to the peak rarefactional pressure divided by the square root of the center frequency of the pulse bandwidth. TI and MI indicate the relative likelihood of thermal and mechanical hazard in vivo, respectively. Either TI or MI greater than 1.0 is hazardous.
+
+The biologic effect due to ultrasound also depends on tissue exposure time. The researchers usually use pregnant mice to expose to ultrasound with a minimum intensity of 1 W/cm2 for 60 to 420 minutes to evaluate the time-dependent adverse events that happen in rodent fetuses. Fortunately, ultrasound-guided nerve block requires the use of only low TI and MI values on the patient for a short period of time. Based on in vitro and in vivo experimental study results to date, there is no evidence that the use of diagnostic ultrasound in routine clinical practice is associated with any biologic risks.
+
+## REFERENCES
+- Curie J, Curie P: Développement par pression de l’é’lectricite polaire dans les cristaux hémièdres à faces inclinées. CR Acad Sci (Paris) 1880;91:294.
+- Langevin P: French Patent No. 505,703. Filed September 17, 1917. Issued August 5, 1920.
+- Thompson J: Unrestricted U-boat warfare: The Royal Navy nearly loses the war. In Imperial War Museum Book of the War at Sea 1914–18. Pan Books, 2006, Chapter 10.
+- Langévin MP: Lés ondes ultrasonores. Rev Gen Elect 1928;23:626.
+- Ensminger D, Bond LJ: Ultrasonics: Fundamentals, Technologies, and Applications, 3rd ed. Francis Group, 2012.
+- Dussik KT: On the possibility of using ultrasound waves as a diagnostic aid. Neurol Psychiat 1942;174:153–168.
+- Dussik KT, Dussik F, Wyt L. Auf dem Wege Zur Hyperphonographie des Gehirnes. Med Wochenschr 1947;97:425–429.
+- Kossoff G, Robinson DE, Garrett WJ: Ultrasonic two-dimensional visualization techniques. IEEE Trans Sonics Ultrason 1965;SU12:31–37
+- Thompson HE, Holmes JH, Gottesfeld KR, Taylor ES: Fetal development as determined by ultrasound pulse-echo techniques. Am J Obstet Gynecol 1965;92:44–53.
+- US federal trademark registration filed for ECHO-DOPPLER by Advanced Technology Laboratories Inc. Ultrasound apparatus for diagnostic medicine. Trademark serial number 73085203. April 26, 1976.
+- La Grange PDP, Foster PA, Pretorius LK: Application of the Doppler ultrasound blood flow detector in supraclavicular brachial plexus block. Br J Anesth 1978;50:965–967.
+- Ting PL, Sivagnanaratnam V: Ultrasonographic study of the spread of local anaesthetic during axillary brachial plexus block. Br J Anesth 1978; 63:326–329.
+- Kapral S, Krafft P, Eibenberger K, Fitzgerald R, Gosch M, Weinstabl C: Ultrasound-guided supraclavicular approach for regional anesthesia of the brachial plexus. Anesth Analg 1994;78:507–513.
+- Sokolov SY, inventor: Means for indicating flaws in materials. United States patent 2164125. 1937.
+- White DN: Johann Christian Doppler and his effect—A brief history. Ultrasound Med Biol 1982;8(6):583–591.
+- O’Brien WD Jr. Biological effects in laboratory animals. In Biological Effects of Ultrasound. Churchill Livingstone, 1985, 77–84.
+- Kerry BG, Robertson VJ, Duck FA: A review of therapeutic ultrasound: Biophysical effects. Phys Ther 2001;81:1351–1358.
+- American Institute of Ultrasound in Medicine, National Electrical Manufacturers Association: Standard for Real-Time Display of Thermal and Mechanical Acoustic Output Indices on Diagnostic Ultrasound Equipment, Revision 2. American Institute of Ultrasound in Medicine and National Electrical Manufacturers Association, 2004.
+- British Medical Ultrasound Society: Guidelines for the safe use of diagnostic ultrasound equipment. Ultrasound 2010 May 18:52–59.
+- Ang ES Jr, Gluncic V, Duque A, Schafer ME, Rakic P: Prenatal exposure to ultrasound waves impacts neuronal migration in mice. Proc Natl Acad Sci U S A 2006;103(34):12903–12910.

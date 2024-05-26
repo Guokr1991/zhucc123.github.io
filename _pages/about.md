@@ -105,3 +105,42 @@ Figure 7. Scattering is the redirection of ultrasound in any direction caused by
 Normally, scattering intensity is much less than mirror-like reflection intensities and is relatively independent of the direction of the incident sound wave; therefore, the visualization of the target nerve is not significantly influenced by another nearby scattering.
 
 Absorption is defined as the direct conversion of the sound energy into heat. In other words, ultrasound scanning generates heat in the tissue. Higher frequencies are absorbed in a greater rate than lower frequencies. However, a higher scanning frequency gives a better axial resolution. If the ultrasound penetration is not sufficient to visualize the structures of interest, a lower frequency is selected to increase the penetration. The use of longer wavelengths (lower frequency) results in lower resolution because the resolution of ultrasound imaging is proportional to the wavelength of the imaging wave. Frequencies between 6 and 12 MHz typically yield adequate resolution for imaging in peripheral nerve block, whereas frequencies between 2 and 5 MHz are usually needed for imaging of neuraxial structures. Frequencies of less than 2 MHz or higher than 15 MHz are rarely used because of insufficient resolution or the insufficient penetration depth in most clinical applications.
+
+# ULTRASOUND IMAGE MODES
+## A-Mode
+The A-mode is the oldest ultrasound technique and was invented in 1930. The transducer sends a single pulse of ultrasound into the medium. Consequently, a one-dimensional simplest ultrasound image is created on which a series of vertical peaks is generated after ultrasound beams encounter the boundary of the different tissue. The distance between the echoed spikes (Figure 8) can be calculated by dividing the speed of ultrasound in the tissue (1540 m/s) by half the elapsed time, but it provides little information on the spatial relationship of imaged structures. Therefore, A-mode ultrasound is not applicable to regional anesthesia.
+
+![Figures 8](https://www.nysora.com/wp-content/uploads/2019/02/28x08-1.jpg)
+Figure 8. The A-mode of ultrasound consists of a one-dimensional ultrasound image displayed as a series of vertical peaks corresponding to the depth of structures the ultrasound encounters in different tissues. (Reproduced with permission from Hadzic A: Hadzic’s Peripheral Nerve Blocks and Anatomy for Ultrasound-Guided Regional Anesthesia, 2nd ed. New York: McGrawHill, Inc; 2011.)
+
+## B-Mode
+The B-mode is a two-dimensional (2D) image of the area that is simultaneously scanned by a linear array of 100–300 piezoelectric elements rather than a single one as in A-mode (Figure 9). The amplitude of the echo from a series of A-scans is converted into dots of different brightness in B-mode imaging. The horizontal and vertical directions represent real distances in tissue, whereas the intensity of the grayscale indicates echo strength (Figure 10). B-mode can provide an image of a cross section through the area of interest, and it is the primary mode currently used in regional anesthesia.
+
+![Figures 9](https://www.nysora.com/wp-content/uploads/2019/02/28x09-1.jpg)
+Figure 9. The B-mode transducer incorporates numeric piezoelectric elements that are electrically connected in parallel.
+
+![Figures10](https://www.nysora.com/wp-content/uploads/2019/02/28x10-1.jpg)
+Figure 10. An example of B-mode imaging. The horizontal and vertical directions represent distances and tissues, whereas the intensity of the grayscale indicates echo strength. (Adapted with permission from Hadzic A: Hadzic’s Peripheral Nerve Blocks and Anatomy for Ultrasound-Guided Regional Anesthesia, 2nd ed. New York: McGraw-Hill, Inc; 2011.)
+
+## Doppler Mode
+The Doppler effect is based on the work of Austrian physicist Johann Christian Doppler. The term describes a change in the frequency or wavelength of a sound wave resulting from relative motion between the sound source and the sound receiver. In other words, at a stationary position, the sound frequency is constant. If the sound source moves toward the sound receiver, the sound waves have to be squeezed, and a higher-pitch sound occurs (positive Doppler shift); if the sound source moves away from the receiver, the sound waves have to be stretched, and the received sound has a lower pitch (negative Doppler shift) (Figure 11). The magnitude of Doppler shift depends on the incident angle between the directions of emitted ultrasound beam and moving reflectors. With a 90° angle there is no Doppler shift. If the angle is 0° or 180°, the largest Doppler shift can be detected. In medical settings, the Doppler shifts usually fall in the audible range.
+
+![Figures 11](https://www.nysora.com/wp-content/uploads/2019/02/28x11.jpg)
+Figure 11. The Doppler effect. When a sound source moves away from the receiver, the received sound has a lower pitch and vice versa. (Adapted with permission from Hadzic A: Hadzic’s Peripheral Nerve Blocks and Anatomy for Ultrasound-Guided Regional Anesthesia, 2nd ed. New York: McGraw-Hill, Inc; 2011.)
+
+Color Doppler produces a color-coded map of Doppler shifts superimposed onto a B-mode ultrasound image. Blood flow direction depends on whether the motion is toward or away from the transducer. Selected by convention, red and blue colors provide information about the direction and velocity of the blood flow. According to the color map (color bar) in the upper left-hand corner of the figure (Figure 12), the red color on the top of the bar denotes the flow coming toward the ultrasound probe, and the blue color on the bottom of the bar indicates the flow away from the probe.
+
+![Figures 12](https://www.nysora.com/wp-content/uploads/2019/02/28x12-1.jpg)
+Figure 12. Color Doppler produces a color-coded map of Doppler shapes superimposed onto a B-mode ultrasound image. Selected by convention, red and blue colors provide information about the direction and velocity of the blood flow. (Adapted with permission from Hadzic A: Hadzic’s Peripheral Nerve Blocks and Anatomy for Ultrasound-Guided Regional Anesthesia, 2nd ed. New York: McGraw-Hill, Inc; 2011.)
+
+![Figures 13](https://www.nysora.com/wp-content/uploads/2019/02/28x13-1.jpg)
+Figure 13. Color Doppler mode is used to detect the direction of the blood vessel.
+
+In ultrasound-guided peripheral nerve blocks, color Doppler mode is used to detect the presence and nature of the blood vessels (artery vs. vein) in the area of interest. When the direction of the ultrasound beam changes, the color of the arterial flow switches from blue to red, or vice versa, depending on the convention used (Figures 13, 14A, 14B, and 14C). Power Doppler is up to five times more sensitive in detecting blood flow than color Doppler, and it is less dependent on the scanning angle. Thus, power Doppler can be used to identify the smaller blood vessels more reliably. The drawback is that power Doppler does not provide any information on the direction and speed of blood flow (Figure 15).
+
+![Figures 14](https://www.nysora.com/wp-content/uploads/2019/02/28x14abc-1.jpg)
+Figure 14. A: Carotid artery displays a red color when the blood flows toward the transducer. B: Carotid artery displays ambiguous color at a 90° Doppler angle; the equal waveform can be seen on both sides of the baseline. C: Carotid artery displays blue color when the blood flows away from the transducer.
+
+![Figures 15](https://www.nysora.com/wp-content/uploads/2019/02/28x14a.jpg)
+Figure 15. Although the power Doppler may be useful in identifying smaller blood vessels, the drawback is that it does not provide information on the direction and speed of blood flow. (Adapted with permission from Hadzic A: Hadzic’s Peripheral Nerve Blocks and Anatomy for Ultrasound-Guided Regional Anesthesia, 2nd ed. New York: McGraw-Hill, Inc; 2011.)
+

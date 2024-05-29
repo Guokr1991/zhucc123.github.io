@@ -16,11 +16,11 @@ Education
 
 Work experience
 ======
-* May 2017: SonoScape Medical Corp
+* May 2017 ~ May 2020: SonoScape Medical Corp
   * System Engineer
   * Duties includes: Updates and improvements to Doppler releated project
 
-* May 2020: Hisense Medical Corp
+* May 2020 ~ now: Hisense Medical Corp
   * System Engineer
   * Project Leader
   * Duties included: Lead to Updates and improvements of Doppler releated project
